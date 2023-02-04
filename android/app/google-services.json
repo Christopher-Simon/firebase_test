@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "590648528046",
+    "project_id": "kapzertest",
+    "storage_bucket": "kapzertest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590648528046:android:d5192573435d73c6dff13f",
+        "android_client_info": {
+          "package_name": "com.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590648528046-h03co8vc0sk53ikjedv7fa2rcvcnacuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA41wMnSxtq_84WqlO-s3RHP1JG3uOsZjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590648528046-h03co8vc0sk53ikjedv7fa2rcvcnacuc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590648528046-dlom376f94ajkg8ep9bq25o3u0v8jlpf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kapzer.firebase-test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
